@@ -1,0 +1,15 @@
+{
+  "name": "axel-marketplace",
+  "description": "Official plugin marketplace for AXEL (AI XML Execution Language) - a powerful framework that extends Claude Code with workflows, skills, agents, and commands.",
+  "owner": {
+    "name": "Apiks",
+    "url": "https://github.com/apiksdev/axel-marketplace"
+  },
+  "plugins": [
+    {
+      "name": "axel-core",
+      "source": { "source": "github", "repo": "apiksdev/axel-core" },
+      "description": "Core framework providing workflows, skills, agents, and commands for AXEL ecosystem."
+    }
+  ]
+}

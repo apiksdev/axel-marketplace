@@ -14,9 +14,10 @@ claude plugin marketplace add apiksdev/axel-marketplace
 
 ## Available Plugins
 
-| Plugin                                                 | Description                                                                          |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| [**axel-core**](https://github.com/apiksdev/axel-core) | Core framework providing workflows, skills, agents, and commands for AXEL ecosystem. |
+| Plugin                                                       | Description                                                                          |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [**axel-core**](https://github.com/apiksdev/axel-core)       | Core framework providing workflows, skills, agents, and commands for AXEL ecosystem. |
+| [**axel-bundler**](https://github.com/apiksdev/axel-bundler) | Bundle multiple reference files into single documents for streamlined context management. |
 
 ## Usage
 

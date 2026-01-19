@@ -10,6 +10,11 @@
       "name": "axel-core",
       "source": { "source": "github", "repo": "apiksdev/axel-core" },
       "description": "Core framework providing workflows, skills, agents, and commands for AXEL ecosystem."
+    },
+    {
+      "name": "axel-bundler",
+      "source": { "source": "github", "repo": "apiksdev/axel-bundler" },
+      "description": "Bundle multiple reference files into single documents for streamlined context management."
     }
   ]
 }

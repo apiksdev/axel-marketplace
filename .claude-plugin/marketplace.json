@@ -1,6 +1,6 @@
 {
   "name": "axel-marketplace",
-  "description": "Official plugin marketplace for AXEL (AI XML Execution Language) - a powerful framework that extends Claude Code with workflows, skills, agents, and commands.",
+  "description": "AXEL (AI XML Execution Language) plugin marketplace - a powerful framework that extends Claude Code with workflows, skills, agents, and commands.",
   "owner": {
     "name": "Apiks",
     "url": "https://github.com/apiksdev/axel-marketplace"
@@ -15,6 +15,11 @@
       "name": "axel-bundler",
       "source": { "source": "github", "repo": "apiksdev/axel-bundler" },
       "description": "Bundle multiple reference files into single documents for streamlined context management."
+    },
+    {
+      "name": "axel-todos",
+      "source": { "source": "github", "repo": "apiksdev/axel-todos" },
+      "description": "Todo and backlog management with workflows and commands for task tracking."
     }
   ]
 }
